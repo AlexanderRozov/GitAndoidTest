@@ -8,6 +8,11 @@
 
 
 class Main {
+void main()
+{
+uint a ;
+}
+}
 
 };
 
